@@ -19,7 +19,7 @@
   <img align="center" alt="Bug-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Bug-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Bug-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Bug-pic" height="200" style="border-radius:45px;" src="https://giffiles.alphacoders.com/209/209154.gif">
+  <img align="right" alt="Bug-pic" height="120" style="border-radius:45px;" src="https://giffiles.alphacoders.com/209/209154.gif">
   
 </div>
   
