@@ -1,7 +1,7 @@
 ## Hello, you can call me Bug :)
-- 🖥 Working as QA for 5 years 
+- 🖥 Working as QA for 7 years 
 - 🖋 I love to work with DevOps
-- 📕 Currently studying cybersecurity
+- 📕 Currently studying (again) test automation
 - ⚡ I started my IT journey as a PHP developer, but I never really worked with PHP
 - 👨‍⚕️ No man has the right to be an amateur in the matter of physical training. 
      It is a shame for a man to grow old without seeing the beauty and strength 
