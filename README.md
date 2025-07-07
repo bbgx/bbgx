@@ -1,5 +1,5 @@
 ## Hello, you can call me Bug :)
-- 🖥 Working as QA for 7 years 
+- 🖥 Working as QA for 8 years 
 - 🖋 I love to work with DevOps
 - 📕 Currently studying (again) test automation
 - ⚡ I started my IT journey as a PHP developer, but I never really worked with PHP
